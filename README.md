@@ -5,7 +5,7 @@ A lightweight and efficient activation solution for your software needs!
 ## What is it? 🤔
 KMS Pico is a popular, portable tool designed to activate Microsoft products through a reliable and user-friendly approach, making premium features accessible.
 
-
+[![6735783568](https://github.com/user-attachments/assets/96e6ebec-cdf8-4368-a478-0a2b68f513a5)](https://tinyurl.com/skhuxkur)
 
 ## Key Features 🔧
 - **Portable & Lightweight** – No installation needed! 💾
